@@ -1,3 +1,17 @@
+## android设置webview背景 transparent -- by gromoo
+
+# Webview Flutter Plugin
+
+### 安装
+
+在工程 pubspec.yaml 中加入 dependencies
+
+```
+dependencies:
+  flutter_webview_plugin:
+    git: https://github.com/gromoo/flutter_webview_plugin
+```
+
 [![Flutter Community: flutter_webview_plugin](https://fluttercommunity.dev/_github/header/flutter_webview_plugin)](https://github.com/fluttercommunity/community)
 
 # NOTICE
